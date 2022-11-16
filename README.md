@@ -1,5 +1,5 @@
 # Third-Person-Controller
- fully rigged and functional third person controller
+ A fully rigged and functional third person controller
  
 # SDKs Used:
  1. Ready Player Me
